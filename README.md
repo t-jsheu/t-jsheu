@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t-jsheu
 - 👀 I’m interested in system dynamics modeling.
-- 🌱 I’m currently learning how to convert STELLA models into R.
+- 🌱 I’m currently learning how to convert STELLA models into R, and conduct data analysis using NHANES data in R. 
 - 💞️ I’m looking to collaborate on projects that require a public health/emergency management perspective.
 - 📫 How to reach me: https://www.linkedin.com/in/sherry-ting-jung-sheu-mph-633a01159/
 <!---
